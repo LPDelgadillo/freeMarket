@@ -30,10 +30,6 @@ header{
 h2{
     margin-top: 50px;
 }
-.form{
-    margin: 50px 500px;
-    padding: 30px;
-    gap: 15px;
-    display: flex;
-    flex-direction: column;
+section{
+    margin: 20px 50px;
 }

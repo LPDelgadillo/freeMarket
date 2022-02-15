@@ -9,7 +9,9 @@ header{
     display: flex;
     justify-content: space-around;
 }
-
+.principal a{
+    text-decoration: none;
+}
 .nombre{
     margin-top:1.5%;
     color: rgb(11, 66, 121);
