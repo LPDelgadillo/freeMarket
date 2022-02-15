@@ -41,3 +41,24 @@ header{
     margin-top: -15px;
     cursor: pointer;
 }
+.primeraSeccion{
+    padding: 10%;
+}
+
+.segundaSeccion{
+    padding: 10%;
+}
+.terceraSeccion{
+    padding: 10%;
+}
+.cuartaSeccion{
+    padding: 10%;
+}
+
+.card{
+    display: flex;
+    height: 350px;
+    width: 300px;
+    border: 20px;
+    padding: 2% 4%;
+}
