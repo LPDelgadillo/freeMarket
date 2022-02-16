@@ -1,7 +1,7 @@
 {
     "Productos":[
         {
-            "id":"1",
+            "id":1,
             "Producto_Nombre":"Kindle - Negro",
             "Estrellas":5,
             "Precio":"$379.900",
@@ -21,7 +21,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"2",
+            "id":2,
             "Producto_Nombre":"Kindle - Blanca",
             "Estrellas":5,
             "Precio":"$379.900",
@@ -41,7 +41,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"3",
+            "id":3,
             "Producto_Nombre":"Altavoz Inteligente Con Alexa Negro",
             "Estrellas":5,
             "Precio":"$189.900",
@@ -61,7 +61,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"4",
+            "id":4,
             "Producto_Nombre":"Altavoz Inteligente Niños Alexa Panda",
             "Estrellas":5,
             "Precio":"$279.900",
@@ -81,7 +81,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"5",
+            "id":5,
             "Producto_Nombre":"Reloj Altavoz Inteligente Alexa Azul",
             "Estrellas":5,
             "Precio":"$309.900",
@@ -101,7 +101,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"6",
+            "id":6,
             "Producto_Nombre":"Parlante Inteligente Alexa Blanco",
             "Estrellas":5,
             "Precio":"$249.900",
@@ -121,7 +121,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"7",
+            "id":7,
             "Producto_Nombre":"Echo Show 8 - Pantalla inteligente con Alex",
             "Estrellas":5,
             "Precio":"$345.900",
@@ -141,7 +141,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"8",
+            "id":8,
             "Producto_Nombre":"Tablet Fire HD 8 32GB ",
             "Estrellas":5,
             "Precio":"$343.700",
@@ -161,7 +161,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"9",
+            "id":9,
             "Producto_Nombre":"Fire 7 Para Niños 16 Gb Pantalla 7 Estuche color azúl",
             "Estrellas":"5",
             "Precio":"$499.000",
@@ -181,7 +181,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"10",
+            "id":10,
             "Producto_Nombre":"Laptop Asus Chromebook C223, 11.6 , Celeron N3350, 4gb Ram",
             "Estrellas":5,
             "Precio":"$696.443",
@@ -204,7 +204,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"11",
+            "id":11,
             "Producto_Nombre":"Portatil Hp 245 G7 Amd 3020e 8gb 1tb 14 PuLG Radeon Vega 8",
             "Estrellas":5,
             "Precio":"$1.090.900",
@@ -227,7 +227,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"12",
+            "id":12,
             "Producto_Nombre":"Portátil Asus 14 Onceava Core I3-1115g4 12gb 256 Gb Ssd Fhd",
             "Estrellas":4,
             "Precio":"$1.871.900",
@@ -247,7 +247,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"13",
+            "id":13,
             "Producto_Nombre":"Base Refrigerante A2 Cooling Pad 2 Ventiladores 6 Niveles@gs",
             "Estrellas":4,
             "Precio":"$39.800",
@@ -269,7 +269,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"14",
+            "id":14,
             "Producto_Nombre":"Base Refrigerante Portatil 2ventilador Cooling Pad Xtrike Me",
             "Estrellas":4,
             "Precio":"$39.800",
@@ -290,7 +290,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"15",
+            "id":15,
             "Producto_Nombre":"Base Refrigerante Gamer 5 Ventiladores 5 Niveles",
             "Estrellas":5,
             "Precio":"$78.900",
@@ -311,7 +311,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"16",
+            "id":16,
             "Producto_Nombre":"Coolcold K40 Rva - Refrigerador Para Ordenador Portátil (6 V",
             "Estrellas":5,
             "Precio":"$218.847",
@@ -333,7 +333,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"17",
+            "id":17,
             "Producto_Nombre":"Silla Sillon Ejecutivo Oficina Reclinable Ergonomica",
             "Estrellas":4,
             "Precio":"$299.900",
@@ -353,7 +353,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"18",
+            "id":18,
             "Producto_Nombre":"Silla Gamer Ergonomica Gaming Reclinable Pc",
             "Estrellas":5,
             "Precio":"$299.900",
@@ -373,7 +373,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"19",
+            "id":19,
             "Producto_Nombre":"Silla Gamer Gaming Consola Pc Ergonomica Reclinable",
             "Estrellas":5,
             "Precio":"$679.900",
@@ -393,7 +393,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"20",
+            "id":20,
             "Producto_Nombre":"Sillon Silla Barbero Barberia Peluqueria Estetica Hidráulico",
             "Estrellas":5,
             "Precio":"$1.429.900",
@@ -412,7 +412,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"21",
+            "id":21,
             "Producto_Nombre":"Sillon Silla Barbero Barberia Peluqueria Estetica Hidráulico",
             "Estrellas":5,
             "Precio":"$1.429.900",
@@ -431,7 +431,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"22",
+            "id":22,
             "Producto_Nombre":"Oso Gigante De Peluche Beige 1,90 Metros",
             "Estrellas":5,
             "Precio":"$279.900",
@@ -453,7 +453,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"23",
+            "id":23,
             "Producto_Nombre":"Oso Panda De Peluche Gigante 1,40 Metros + Envío Gratis Perf",
             "Estrellas":5,
             "Precio":"$177.900",
@@ -476,7 +476,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"24",
+            "id":24,
             "Producto_Nombre":"Oso Gigante De Peluche 140cms",
             "Estrellas":5,
             "Precio":"$187.900",
@@ -498,7 +498,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"25",
+            "id":25,
             "Producto_Nombre":"Zapatos De Entrenamiento Air Mesh Para Mujer",
             "Estrellas":"null",
             "Precio":"$99.059",
@@ -519,7 +519,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"26",
+            "id":26,
             "Producto_Nombre":"Zapatos De Entrenamiento Air Mesh Para Mujer",
             "Estrellas":"null",
             "Precio":"$143.506",
@@ -540,7 +540,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"27",
+            "id":27,
             "Producto_Nombre":"Zapatos Deportivos Ligeros De Moda Para Hombre",
             "Estrellas":"null",
             "Precio":"$167.424",
@@ -561,7 +561,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"27",
+            "id":32,
             "Producto_Nombre":"Zapatos Deportivos Ligeros De Moda Para Hombre",
             "Estrellas":"null",
             "Precio":"$139.520",
@@ -582,7 +582,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"28",
+            "id":28,
             "Producto_Nombre":"Zapatos Para Correr Unisex Ligeros De Malla De Aire",
             "Estrellas":"null",
             "Precio":"$139.520",
@@ -603,7 +603,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"29",
+            "id":29,
             "Producto_Nombre":"Serum Ácido Hialurónico Revital",
             "Estrellas":"null",
             "Precio":"$58.990",
@@ -622,7 +622,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"30",
+            "id":30,
             "Producto_Nombre":"Crema Noche Revitalift Laserx3",
             "Estrellas":4,
             "Precio":"$75.990",
@@ -642,7 +642,7 @@
             "Detalle condición física del producto":"Producto en perfecto estado"
         },
         {
-            "id":"31",
+            "id":31,
             "Producto_Nombre":"Crema Noche Revitalift Laserx3",
             "Estrellas":4,
             "Precio":"$75.990",
