@@ -59,29 +59,51 @@ header{
 }
 
 .primeraSeccion{
-    padding: 5%;
-    
+    margin: 20px; 
 }
 
 .segundaSeccion{
-    padding: 10%;
+    margin: 20px;
+}
+.contenedorSegundaSeccion{
+    display: flex;
+    width: 100%;
+    gap: 2%;
+    margin: 0 auto;
+    overflow-x: scroll;
+}
+.contenedorSegundaSeccion::-webkit-scrollbar{
+    width: 0;
 }
 .terceraSeccion{
-    padding: 10%;
+    margin: 20px;
+}
+.contenedorTerceraSeccion{
+    display: flex;
+    width: 100%;
+    gap: 2%;
+    margin: 0 auto;
+    overflow-x: scroll;
+}
+.contenedorTerceraSeccion::-webkit-scrollbar{
+    width: 0;
 }
 .cuartaSeccion{
-    padding: 10%;
+    margin: 20px;
 }
-
-.card{
+.contenedorCuartaSeccion{
     display: flex;
-    height: 350px;
-    width: 300px;
-    border: 20px;
-    padding: 2% 4%;
+    width: 100%;
+    gap: 2%;
+    margin: 0 auto;
+    overflow-x: scroll;
+}
+.contenedorCuartaSeccion::-webkit-scrollbar{
+    width: 0;
 }
 
 .footer{
+    border-top: 1px solid grey;
     font-size: 15px;
     margin-left: 20px;
     display: flex;
@@ -120,13 +142,17 @@ header{
 }
 
 .hijoImg{
-
     border: 1px solid gray;
-
     border-radius: 10px;
-
 }
-
+.hijoImg:hover{
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-ms-transform:scale(1.1);
+-o-transform:scale(1.1);
+transform:scale(1.1);
+box-shadow: 2px 0px 26px 1px #000000;
+}
 .hijoImg img {
     width: 250px;
     padding: 20px;
