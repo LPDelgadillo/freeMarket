@@ -18,7 +18,8 @@
             "Garantía de producto en meses":12,
             "País de Origen":"United States",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":2,
@@ -38,7 +39,8 @@
             "Garantía de producto en meses":12,
             "País de Origen":"United States",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":3,
@@ -58,7 +60,8 @@
             "Garantía de producto en meses":3,
             "País de Origen":"China",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":4,
@@ -78,7 +81,8 @@
             "Garantía de producto en meses":6,
             "País de Origen":"United States",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":5,
@@ -98,7 +102,8 @@
             "Garantía de producto en meses":6,
             "País de Origen":"United States",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":6,
@@ -118,7 +123,8 @@
             "Garantía de producto en meses":3,
             "País de Origen":"China",
             "Peso (kg)":0.5,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":7,
@@ -138,7 +144,8 @@
             "Garantía de producto en meses":3,
             "País de Origen":"China",
             "Peso (g)":1037,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":8,
@@ -158,7 +165,8 @@
             "Garantía de producto en meses":6,
             "País de Origen":"United States",
             "Peso (kg)":0.335,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":9,
@@ -178,7 +186,8 @@
             "Garantía de producto en meses":6,
             "País de Origen":"China",
             "Peso (kg)":1,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":10,
@@ -201,7 +210,8 @@
             "Profundidad (cm)":28.7,
             "Altura (cm)":17,
             "Marca":"Asus",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":11,
@@ -224,7 +234,8 @@
             "Profundidad (mm)":234,
             "Altura(mm)":20,
             "Marca":"HP",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":12,
@@ -244,7 +255,8 @@
             "Garantía de producto en meses":"12",
             "Peso (kg)":1.6,
             "Marca":"Asus",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":13,
@@ -266,7 +278,8 @@
             "Ancho":353,
             "Profundidad":253,
             "Marca":"COOLING PAD",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":14,
@@ -287,7 +300,8 @@
             "Peso (cm)":28,
             "Ancho (cm)":39,
             "Marca":"Xtrike Me",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":15,
@@ -308,7 +322,8 @@
             "Peso (cm)":370,
             "Ancho (mm)":300,
             "Marca":"Premium",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":16,
@@ -330,7 +345,8 @@
             "tamaño del ventilador": "60* 15 mm",
             "velocidad del ventilador": "290010% rpm",
             "Marca":"CoolCold",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":17,
@@ -350,7 +366,8 @@
             "Marca":"Urban Design",
             "peso kg":10.35,
             "Garantia":"30 Dias",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":18,
@@ -370,7 +387,8 @@
             "Marca":"Urban Design",
             "peso kg":10.35,
             "Garantia":"30 Dias",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":19,
@@ -390,7 +408,8 @@
             "Marca":"Urban Design",
             "peso kg":10.35,
             "Garantia":"30 Dias",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":20,
@@ -409,7 +428,8 @@
             "Modelo":"B47-CH002B",
             "Marca":"Gran Shoppin",
             "Garantia":"en defecto de fábrica",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":21,
@@ -428,7 +448,8 @@
             "Modelo":"B47-CH002B",
             "Marca":"Gran Shopping",
             "Garantia":"en defecto de fábrica",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":22,
@@ -450,7 +471,8 @@
             "Personaje":"oso",
             "Altura cm":190,
             "Ancho cm":100,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":23,
@@ -473,7 +495,8 @@
             "color":"rojo",
             "Altura cm":30,
             "Ancho cm":30,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":24,
@@ -495,7 +518,8 @@
             "Personaje":"oso",
             "Altura cm":30,
             "Ancho cm":30,
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":25,
@@ -504,7 +528,7 @@
             "Precio":99.059,
             "oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Moda",
+            "categoria":"Moda",
             "envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_915579-CBT45501772743_042021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_729121-CBT45501772750_042021-O.webp",
@@ -516,7 +540,8 @@
             "Genero":"Mujer",
             "Material de la suela":"Goma",
             "Estilo":"Urbano",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":26,
@@ -525,7 +550,7 @@
             "Precio":143506,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Moda",
+            "categoria":"Moda",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_614996-CBT46760896848_072021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_747393-CBT46760986051_072021-O.webp",
@@ -537,7 +562,8 @@
             "Genero":"Hombre",
             "Material de la suela":"Goma",
             "Estilo":"Deportivo",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":27,
@@ -546,7 +572,7 @@
             "Precio":167.424,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Moda",
+            "categoria":"Moda",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_716442-CBT45363325939_032021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_702655-CBT45363325941_032021-O.webp",
@@ -558,7 +584,8 @@
             "Genero":"Hombre",
             "Material de la suela":"Goma",
             "Estilo":"Deportivo",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":32,
@@ -567,7 +594,7 @@
             "Precio":139520,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Moda",
+            "categoria":"Moda",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_997623-CBT46892033367_072021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_649030-CBT46892033368_072021-O.webp",
@@ -579,7 +606,8 @@
             "Genero":"Mujer",
             "Material de la suela":"Goma",
             "Estilo":"Deportivo",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":28,
@@ -588,7 +616,7 @@
             "Precio":139520,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Moda",
+            "categoria":"Moda",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_940914-CBT45501755086_042021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_878969-CBT45501755083_042021-O.webp",
@@ -600,7 +628,8 @@
             "Genero":"Sin Genero",
             "Material de la suela":"Goma",
             "Estilo":"Deportivo",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":29,
@@ -609,7 +638,7 @@
             "Precio":58990,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Belleza y Cuidado Personal",
+            "categoria":"Belleza y Cuidado Personal",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_674479-MCO47556716877_092021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_735989-MCO47556761547_092021-O.webp",
@@ -619,7 +648,8 @@
             "Marca":"L'Oréal Paris",
             "Garantia":"en defecto de fábrica",
             "Fabricancte":"Loreal",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":30,
@@ -628,7 +658,7 @@
             "Precio":75990,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Belleza y Cuidado Personal",
+            "categoria":"Belleza y Cuidado Personal",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_734735-MCO48055371861_102021-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_785575-MCO47556479103_092021-O.webp",
@@ -639,7 +669,8 @@
             "Garantia":"en defecto de fábrica",
             "Fabricancte":"Loreal",
             "Formato":" Crema",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         },
         {
             "id":31,
@@ -648,7 +679,7 @@
             "Precio":75990,
             "Oferta":0,
             "Tipo_de_Venta":"Compra Inmediata",
-            "Categoria":"Belleza y Cuidado Personal",
+            "categoria":"Belleza y Cuidado Personal",
             "Envio":"EXPRESS",
             "Producto_Imagen":"https://http2.mlstatic.com/D_NQ_NP_657960-MCO41601342263_042020-O.webp",
             "Producto_Imagen2":"https://http2.mlstatic.com/D_NQ_NP_941005-MCO41601342085_042020-O.webp",
@@ -658,7 +689,8 @@
             "Garantia":"en defecto de fábrica",
             "Fabricancte":"Belcorp",
             "Formato":" Crema",
-            "Detalle condición física del producto":"Producto en perfecto estado"
+            "Detalle condición física del producto":"Producto en perfecto estado",
+            "Categoria":"favorito"
         }
     ]
 }
