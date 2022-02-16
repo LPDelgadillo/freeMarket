@@ -3,7 +3,7 @@ const contVideos = document.getElementById('contenedor')
 // Funcion de obtener datos
 async function getImagenes (){
     try {
-        const resp = await fetch('http://localhost:4000/videos');
+        const resp = await fetch('http://localhost:4000/Productos');
         const data = await resp.json()
         return data
     }catch (error){
