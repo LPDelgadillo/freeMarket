@@ -1,4 +1,4 @@
-const contVideos = document.getElementById('contenedor')
+const todos = document.getElementById('todos')
 
 // Funcion de obtener datos
 async function getImagenes (){
@@ -11,23 +11,21 @@ async function getImagenes (){
     }
 }
 
-// Funcion mostrar videos
+// Funcion mostrar imagenes
 async function pintarImagenes(data) {
     if(data == undefined){
         data = await getImagenes()
     }
 
-    contVideos.innerHTML = '';
+    todos.innerHTML = '';
 
-    data.forEach((video)=> {
-        const { id, name, imagen, precio } = video;
+    data.forEach((imagen)=> {
+        const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
-        contVideos.innerHTML +=`
-        <div class="hijoImg">
-                    <img src="${imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${name}</p>
-                    <p class="hijoPrecioProducto">$${precio}</p>
-                </div>
+        todos.innerHTML +=`
+                    <img src="${Producto_Imagen}" alt="img${id}" />
+                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
+                    <p class="hijoPrecioProducto">$${Precio}</p>
         `
     })
 }
@@ -35,83 +33,76 @@ async function pintarImagenes(data) {
 pintarImagenes()
 
 //-----------------------------------------------------------------------------------------//
-const seriesAnime = document.getElementById('contenedorSegundaSeccion');
+const favoritos = document.getElementById('favoritos');
 
-async function mostrarAnimes() {
+async function mostrarFavoritos() {
     const data = await getImagenes();
-    const result = data.filter((anime)=> anime.categoria === "Animes")
+    const result = data.filter((fav)=> fav.Categoria === "favorito")
 
-    seriesAnime.innerHTML = '';
+    favoritos.innerHTML = '';
 
-    result.forEach((video)=> {
-        const { id, name, imagen, precio } = video;
+    result.forEach((imagen)=> {
+        const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
-        seriesAnime.innerHTML +=`
-        <div class="hijoImg">
-                    <img src="${imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${name}</p>
-                    <p class="hijoPrecioProducto">$${precio}</p>
-                </div>
+        favoritos.innerHTML +=`
+                    <img src="${Producto_Imagen}" alt="img${id}" />
+                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
+                    <p class="hijoPrecioProducto">$${Precio}</p>
         `
     })
 }
 
-mostrarAnimes()
+mostrarFavoritos()
 
 //--------------------------------------------------------------------------------------------------//
-const seriesCrimenes = document.getElementById('contenedorTerceraSeccion');
+const supermercado = document.getElementById('supermercado');
 
-async function mostrarCrimenes() {
+async function mostrarSupermercado() {
     const data = await getImagenes();
-    const result = data.filter((crimen)=> crimen.categoria === "Crimenes")
+    const result = data.filter((item)=> item.categoria === "Belleza y Cuidado Personal")
 
-    seriesCrimenes.innerHTML = '';
+    supermercado.innerHTML = '';
 
-    result.forEach((video)=> {
-        const { id, name, imagen, precio } = video;
+    result.forEach((imagen)=> {
+        const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
-        seriesCrimenes.innerHTML +=`
-        <div class="hijoImg">
-                    <img src="${imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${name}</p>
-                    <p class="hijoPrecioProducto">$${precio}</p>
-                </div>
+        supermercado.innerHTML +=`
+                    <img src="${Producto_Imagen}" alt="img${id}" />
+                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
+                    <p class="hijoPrecioProducto">$${Precio}</p>
         `
     })
 }
 
-mostrarCrimenes()
+mostrarSupermercado()
 //--------------------------------------------------------------------------------------------------------------//
-const seriesCrimenes = document.getElementById('contenedorCuartaSeccion');
+const oferta = document.getElementById('ofertas');
 
-async function mostrarCrimenes() {
+async function mostrarOferta() {
     const data = await getImagenes();
-    const result = data.filter((crimen)=> crimen.categoria === "Crimenes")
+    const result = data.filter((item)=> item.oferta ==="si")
 
-    seriesCrimenes.innerHTML = '';
+    oferta.innerHTML = '';
 
-    result.forEach((video)=> {
-        const { id, name, imagen, precio } = video;
+    result.forEach((imagen)=> {
+        const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
-        seriesCrimenes.innerHTML +=`
-        <div class="hijoImg">
-                    <img src="${imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${name}</p>
-                    <p class="hijoPrecioProducto">$${precio}</p>
-                </div>
+        oferta.innerHTML +=`
+                    <img src="${Producto_Imagen}" alt="img${id}" />
+                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
+                    <p class="hijoPrecioProducto">$${Precio}</p>
         `
     })
 }
 
-mostrarCrimenes()
-
+mostrarOferta()
 //--------------------------------------------------------------------------------------------------------------//
 
-async function verVideo(id){
-    const data = await getImagenes();
-    const result = data.filter((video)=> video.id === id)
+// async function verVideo(id){
+//     const data = await getImagenes();
+//     const result = data.filter((video)=> video.id === id)
     
-    localStorage.setItem('video', JSON.stringify(result))
+//     localStorage.setItem('video', JSON.stringify(result))
 
-    window.location.href = '../pelicula.html'
-}
+//     window.location.href = '../pelicula.html'
+// }
