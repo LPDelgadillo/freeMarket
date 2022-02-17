@@ -98,11 +98,11 @@ async function mostrarOferta() {
 mostrarOferta()
 //--------------------------------------------------------------------------------------------------------------//
 
-// async function verVideo(id){
-//     const data = await getImagenes();
-//     const result = data.filter((video)=> video.id === id)
+async function verImagen(id){
+    const data = await getImagenes();
+    const result = data.filter((imagen)=> imagen.id === id)
     
-//     localStorage.setItem('video', JSON.stringify(result))
+    localStorage.setItem('imagen', JSON.stringify(result))
 
-//     window.location.href = '../pelicula.html'
-// }
+    window.location.href = '../detalle.html'
+}
