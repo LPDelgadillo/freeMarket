@@ -23,9 +23,11 @@ async function pintarImagenes(data) {
         const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
         todos.innerHTML +=`
+                <div class="todos">
                     <img src="${Producto_Imagen}" alt="img${id}" />
                     <p class="hijoNombreProducto">${Producto_Nombre}</p>
                     <p class="hijoPrecioProducto">$${Precio}</p>
+                </div>
         `
     })
 }
@@ -45,9 +47,11 @@ async function mostrarFavoritos() {
         const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
         favoritos.innerHTML +=`
-                    <img src="${Producto_Imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
-                    <p class="hijoPrecioProducto">$${Precio}</p>
+        <div class="favoritos">
+        <img src="${Producto_Imagen}" alt="img${id}" />
+        <p class="hijoNombreProducto">${Producto_Nombre}</p>
+        <p class="hijoPrecioProducto">$${Precio}</p>
+    </div>
         `
     })
 }
@@ -67,9 +71,11 @@ async function mostrarSupermercado() {
         const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
         supermercado.innerHTML +=`
-                    <img src="${Producto_Imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
-                    <p class="hijoPrecioProducto">$${Precio}</p>
+        <div class="supermercado">
+        <img src="${Producto_Imagen}" alt="img${id}" />
+        <p class="hijoNombreProducto">${Producto_Nombre}</p>
+        <p class="hijoPrecioProducto">$${Precio}</p>
+    </div>
         `
     })
 }
@@ -88,9 +94,11 @@ async function mostrarOferta() {
         const { id, Producto_Nombre, Producto_Imagen, Precio } = imagen;
 
         oferta.innerHTML +=`
-                    <img src="${Producto_Imagen}" alt="img${id}" />
-                    <p class="hijoNombreProducto">${Producto_Nombre}</p>
-                    <p class="hijoPrecioProducto">$${Precio}</p>
+        <div class="ofertas">
+        <img src="${Producto_Imagen}" alt="img${id}" />
+        <p class="hijoNombreProducto">${Producto_Nombre}</p>
+        <p class="hijoPrecioProducto">$${Precio}</p>
+    </div>
         `
     })
 }
@@ -100,7 +108,7 @@ mostrarOferta()
 
 async function verImagen(id){
     const data = await getImagenes();
-    const result = data.filter((imagen)=> imagen.id === id)
+    const result = data.filter((Producto_Imagen)=> Producto_Imagen.id === id)
     
     localStorage.setItem('imagen', JSON.stringify(result))
 
